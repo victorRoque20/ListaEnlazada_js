@@ -204,9 +204,9 @@ class Lista {
     }
 }
 
-//───────────────────────────────  
+
 // Pruebas automáticas usando console.assert()
-//───────────────────────────────
+
 
 (function pruebas() {
     // 1. Prueba con lista vacía
